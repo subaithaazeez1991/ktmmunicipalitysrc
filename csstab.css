@@ -1,0 +1,56 @@
+
+	table caption {
+		padding-bottom: 1em;		}
+
+	
+/* --------------TABLE ONE ATTRIBUTES-----------------  */
+
+table.one {
+		font-family:"Times New Roman", Times, serif;
+		font-size:19px;
+		font-weight:100;
+		}		/* added custom font-family  */
+
+
+
+table.one{
+	padding:0;
+	border:none;
+	border-collapse:collapse;
+		margin-bottom: 3em;	
+
+	margin-right: 3em;	
+		display: inline-block;
+
+}
+	
+	table.one td {								
+	text-align: left;     
+	width: 10em;					
+	padding: 0.5em; 
+			border:none;
+
+		border-collapse:collapse;
+	}		
+
+
+	table.one th {								
+	text-align: center;					
+	padding: 1em;
+		background-color:  #33CC66;			
+
+	color: white;		}			      
+
+
+
+	table.one tr {	
+hover{background-color:#FF80C0};
+
+	height: 1em;	}
+
+table.one tr:nth-child(even) {			
+    background-color: #FFFFFF;		}
+
+	table.one tr:nth-child(odd) {			
+	background-color:#F5F5F5;		}
+
